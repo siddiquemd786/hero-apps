@@ -5,7 +5,7 @@ import { NavLink } from 'react-router';
 const Footer = () => {
     return (
         <div>
-        <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content items-center p-4 ">
+        <footer className="footer  sm:footer-horizontal bg-neutral text-neutral-content items-center p-4 ">
   <aside className="grid-flow-col items-center">
 
     <div>
@@ -56,10 +56,11 @@ const Footer = () => {
       </svg>
     </a>
   </nav>
-  <div>
+  
+</footer>
+<div className='bg-neutral text-white'>
      <p className='text-center'>Copyright © {new Date().getFullYear()} - All right reserved</p>
   </div>
-</footer>
         </div>
     );
 };
