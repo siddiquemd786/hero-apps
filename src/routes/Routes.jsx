@@ -3,6 +3,8 @@ import { createBrowserRouter } from "react-router";
 import Root from '../pages/Root/Root';
 import Errorpage from '../pages/ErrorPages/Errorpage';
 import Home from '../pages/Home/Home';
+import Apps from '../component/apps/Apps';
+import Installation from '../component/installation/Installation';
 
 
 
@@ -18,6 +20,13 @@ import Home from '../pages/Home/Home';
             path:'/',
             Component:Home
             
+        },{
+          path:'/apps',
+          Component:Apps
+        },
+        {
+          path:"/installations",
+          Component:Installation
         }
     ]
   },
