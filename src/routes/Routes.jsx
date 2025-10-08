@@ -18,9 +18,13 @@ import Installation from '../component/installation/Installation';
     children:[
         {   index:true,
             path:'/',
-            Component:Home
+                loader: ()=>fetch('app.json'),
+           
+           Component:Home
             
-        },{
+        },
+        
+        {
           path:'/apps',
           Component:Apps
         },

@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://thumbs.dreamstime.com/b/tik-tok-application-tiktok-social-media-network-tiktok-popular-video-sharing-social-networking-service-tik-tok-logo-tik-tok-203614095.jpg",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": "01",
+    "description": "Short video platform to create and share videos",
+    "size": 80,
+    "reviews": 200000000,
+    "ratingAvg": 4.3,
+    "downloads": 3500000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 70000000 },
+      { "name": "5 star", "count": 96000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": "02",
+    "description": "Photo & video sharing social network",
+    "size": 60,
+    "reviews": 150000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 88000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/474x/f7/1f/fb/f71ffb7ad7db43ccc7b1466de418f254.jpg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms",
+    "id": "03",
+    "description": "Secure messaging and voice/video calls",
+    "size": 50,
+    "reviews": 120000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 66000000 }
+    ]
+  },
+  {
+    "image": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTM1LXNvY2lhbC0wMjJhLnBuZw.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ‑LLC",
+    "id": "04",
+    "description": "Messaging focused on speed and privacy",
+    "size": 45,
+    "reviews": 60000000,
+    "ratingAvg": 4.4,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 31500000 }
+    ]
+  },
+  {
+    "image": "https://www.shutterstock.com/image-vector/capcut-logo-editorial-icon-isolated-600nw-2563301725.jpg",
+    "title": "CapCut",
+    "companyName": "ByteDance",
+    "id": "05",
+    "description": "Video editor & maker with effects",
+    "size": 90,
+    "reviews": 80000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 41500000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Snapchat/Snapchat-Logo.wine.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": "06",
+    "description": "Multimedia messaging & stories",
+    "size": 70,
+    "reviews": 50000000,
+    "ratingAvg": 4.2,
+    "downloads": 1200000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 18500000 },
+      { "name": "5 star", "count": 20000000 }
+    ]
+  },
+  {
+     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "id": "07",
+    "description": "Social networking & connections",
+    "size": 80,
+    "reviews": 140000000,
+    "ratingAvg": 4.1,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 74000000 }
+    ]
+  },
+  {
+    "image": "https://www.ilovephd.com/wp-content/uploads/2023/03/ChatGPT-Logo.png",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": "08",
+    "description": "AI conversational assistant",
+    "size": 40,
+    "reviews": 25000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  }
+]
