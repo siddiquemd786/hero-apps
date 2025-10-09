@@ -4,9 +4,9 @@ import download from '../../assets/icon-downloads.png'
 import star from '../../assets/icon-ratings.png'
 
 const SingleApp = ({data}) => {
-    console.log(data)
+   
 
-    const {companyName,description,id,image,ratingAvg,ratings,reviews,size,title}=data
+    const {image,ratingAvg,reviews,title}=data
     
     return (
         <div>

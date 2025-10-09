@@ -1,3 +1,4 @@
+// src/component/banner/Banner.jsx
 import React from 'react';
 import playStore from '../../assets/playstore.png'
 

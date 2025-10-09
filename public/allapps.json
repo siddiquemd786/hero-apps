@@ -1,0 +1,529 @@
+[
+  {
+    "image": "https://thumbs.dreamstime.com/b/tik-tok-application-tiktok-social-media-network-tiktok-popular-video-sharing-social-networking-service-tik-tok-logo-tik-tok-203614095.jpg",
+    "title": "TikTok: Short Videos, Big Impact",
+    "companyName": "ByteDance",
+    "id": "01",
+    "description": "Short video platform to create and share videos",
+    "size": 80,
+    "reviews": 200000000,
+    "ratingAvg": 4.3,
+    "downloads": 3500000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 70000000 },
+      { "name": "5 star", "count": 96000000 }
+    ]
+  },
+  {
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEBAODREQDg0NDw8PDg4ODw8PDg4PFREXFhUSFRYYHSgsGBomJxYWITEtJSorLi4uFx8/ODMsNygtLiwBCgoKDg0OGhAQGi0mIB0tLS0tLisuLS0tLy8tLy4tLS0tLS8tLS0tKystLSstLS0tLS0vLS0vLS0tLS0tKy0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAAAwcBBQYCBAj/xABOEAACAQIBBQoGDAwHAQAAAAAAAQIDBBEFBgcSIRMxQVFSYXGBkbEiMnJzstEUIzNCU3SSoaKz0uIVFiU0NVRiZIKTo/AkRGOkwcLxQ//EABsBAQACAwEBAAAAAAAAAAAAAAACAwEEBQYH/8QAOREBAAECAgUJBwMDBQAAAAAAAAECAwQRBRIhMVEVMkFScaHB0eETFCKBkbHwNGFyIzNiJEJTY/H/2gAMAwEAAhEDEQA/ALqMsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzqsBqviAar4gGq+IBqviAar4gGq+IBqviAarAxgAAAAAAAAAAAAAAAAAAAADjM6M/Kdu5UbRRr144qU23uNN8Wzx3zLBc/AbVnDTVtq2QnqSr7KWcd9cNurcVcH7ynJ0qfRqwwx68TfotW6d0K6qJaqTlvttvnbLs4VTbl5xfG+1mdiOUms+N9rM5Qwaz432sZQGs+N9rGUBrPjfaxlAaz432sZQGs+N9rGUBrPjfaxlAntsoV6Txo1qtJr4OrOHcyM0UzviDN1mQtItzSajeL2TS4ZpRhXiuZrBS68HzmpdwVM7aNk9ycXJjes7JmUaNzSjWt5qpTlwrY0+GMlwNcTObXRVROVS6JzfURAAAAAAAAAAAAAAADitImccqEFaUJatatHWqzi8JU6T2YJ8EpYPoSfGmbOHta060trD2db4pVfgb+bZm2YGc1c22MDOaubTGBLNXNpjVM6yqbTy4ktZVNpjVM5oTbljAyjlLAYAAAABvM0s4Z2NdT2u3qNRuKa260eUlylvrrXCU37MXaf36GaaspXfSqRlGM4NShNKUZLapRaxTXMcSYy2Nh6AAAAAAAAAAAAAAAofLeUHc3Na4bxVWpJx82tkF2JHTojVpiHoLdjUoil8RIm2Gc0Jtu4zc0e1a0VVvJSt6ctsaUUt3kuN47IdjfQa1zExGyloXb9MTlTtdlbZj5NgsPY6m+GVSdSbfa8F1I15xFyelrTdqnpTfifk39VpfS9Zj29zijr1cT8T8m/qtL6XrHt7nWY1pY/E/Jv6rS+l6x7e51mMz8T8m/qtL6XrM+8XOtIfidk39VpdkvWPeLvWljVhiWZmTGsPYtPq10+1Mz7zd6zGpTwaLLGjO1mm7Sc7epwRlJ1aT5nrbV29Rdbx1cc7ajNuOhWmWMkV7Sq6NzDUnvxa2wnHlRlwr+3gdK3dpuRnSqmmYfCTYALg0ZZQdWxVOTxla1JUdvIwUodSUsP4TkYyjVuZ8V1udjrTVTAAAAAAAAAAAAAhvHhTqNb6pza6dVmY3pUc6H59hvLoR03rqqHrEITQ7zRjm9GrN3tZYwoy1aEXtUqq2ueH7OKw58eI1sRcyjVhytIXdT+nT073R5654qywoUFGpdSjrPW2woxe85cbfAut8GNVqzr7Z3NTC4SbvxTuVleZevK0nKrc1pN8CqShBdEY4JdhuRRTG6HTjDUU7Ih8/4Rr/DVv5tT1ktWOCM2aeDP4Rr/AA1b+bU9Y1aeCE2Y4H4Rr/DVv5tT1mdWnghNqOB+ELj4at/NqesatPBCbUcGPwhcfDVv51T1mdWngrm1DMMo3OK1a9xrcGrWq63VgzOrTwhCbUOnzaz+uKMlC8k7i3bwc3trUudP36409vPwFF3DU1RnTslVVZ4LAzjyPRyja6qcW5R3S2rLaoyaxjJPkvh5n0GnauTarz+rXmOKjatGUZShNas4ScZRe/GSeDTOzFWe0m0jcSWsrm0sjRC3qXi4FOg10tTx7kc/Hb6SimYWEaCYAAAAAAAAAAAAEF97lV83U9FmY3p2+dHa/PUHsXQjpvbzS9YhHVXrmTbqnk6zS2a9CFV+VUW6P0jnXZzrl5LGzM4ivtmPpsUrlK/dxWq3Eni61SU/4W/BXUsF1G/TTlEQ9JbsRRRFMdEPnxJMzQziFc0JLejOpLUpQnUm96FOMpyfUhM5b1dVMUxnM5NxTzRylJYq0qYc8qUH2SkmV+2o4tWb9jrPiv8AI91b7bihVpRW/OUHufy1s+cnTXTVulmmq3XzZh8JIm2tvRfaUY2SrQSderUqKtL3y1ZtRhjwLDVeH7Ro4mZ18nLxecXMmh0sWlGFW3qwUY1qsam64bHOMdXVk+fa1jw9RbhapymEsLE1RMN7otvZVLOVOTx9j1pQh5EkppdspFWJpyrz4q8TRq1drhtIFsqeUbjV2Ko4VMOeUFrfPi+s28PVnbhZap1qIc7gbGbM21i6JF4N55Vv3VDSxk5zS1rtOqsE0lQAAAAAAAAAAAAEF97lV83U9FmY3p2+fHa/O8N5dCOnM7XvZja9YhjJf2a36PsviVt9TE5tznz2vFYv9RX/ACn7qAovwY+Su46UvZTS94hCaXT5mZp1L+bnNunaU3hOovGqS5EMfnfB3U3bsUbOlzsdi6cPGrG2qe795WtTpWWTqOzcrWisE5N4OcudvbOXazT+KueLz+d3EV9My0lXSRk5PCO71Fyo0ml9Jp/MWe71tqNF4jpiPq2mSM67G7e50aq3R7NyqxdOcuZKXjdWJCq1XTtmGvewd61tqjZxaLO3MOnVjKvYxVKusZOjHCNKtzJe8l0bHw7+JZavzGypfhsbNM6tzbH2V1k7K93aSmrerOhJvCpHCLWstnhQmmsVvb2JtzTTVvh1K7FFyImqM0F7fVa83VrzlVqSwxlN7cFwLiXMthmmIpjKGIsxTGVMLI0R+4XPn4/Vo1cVvhy8fTlVHY5nSX+kanmqPol2H5i7CUZ2nLl+a6baxNEvi3nlW/dUNTFdDn4unLJYBqNMAAAAAAAAAAAACC+9yq+bqeixCdvnx2w/PkYbF0I3Nd7+d44korYX3mt+j7L4lbfUxNOvnz2vEYv9Rc/lP3fn+kvBj5K7jo6z22T6bC0nXq0qFPx61SNOPEnJ4YvmW/1CaoiM1d2uLdE1zuiM171JW+TbLHDVoWlLYlhrTfAueUm+2RzttdXa8ZEXMVey6ap/PopHLmWa15Wde4li9qhBPwKUORFf3idCiiKIyh63D4WixRqUfOeL4cSS2aWU/m29YRmla+jfOmdypWlzJyr0o69OpJ+FVpLBNS45LFbeFPmbNK/a1fih5zSWCi1PtKN090+rSaVMjqlWp3dNYQucYVUt7dorFS/iWPyOcsw9ecavBsaLu69M25/27uxwuJsupNC0dEL9oufPx+rRp4nfDhaUjKuns8XM6TH+UanmqPol2H5jZwFOdn5y5bEubc0LG0S+LeeVb91Q1cT0OTpGnKafn4LANVzAAAAAAAAAAAAAIL73Kr5up6LCdvnx2woJR2LoM6738jiTithe+bC/wFn8TtvqYlc73iMX+or/AJT91BUoeDHyV3G1rvby6fRxQUspUG//AJxrTXTubX/Yjcq+FzdLVTGFqy6cnX6Xa8laUaa3qtytbnUYSaXbg+ohY2VZuVoSiJv1TwjxhU+qbkVPTMYEtYDOxjJu8yriVPKNpKPDWUHzxmnB9/zFd2M6JaekKIqw1efDP6LL0pUk8nTk9+nWoSj0uah3SZqYfnvP6Jn/AFMRxifspvE33qJpWlofftFz5+P1aNPE74ed0zGVyns8XM6TX+UanmqPol2H5jd0ZTnh47ZcrrFzemhZGiPxbzyrfuqGpiehw9LRlNHz8Fgms44AAAAAAAAAAAAEF97lV83U9FhO3z47YUQo7EakXH0CYHEnFYvLNv8AMbP4pb/VRL4eGxf6iv8AlP3URCOxdC7hrvcN1mZdqhf21STwi6jpy6KkXBfPJPqJa2cNLSNr2mGriO36eix9JGTHcWMnBYztpqukt9xScZ/NJvqFE5S87oq/FrERnuq2eXepvVLoreueXEnFYw4korHUaN8lyrX9Oph7XaJ1Zvg1mnGEenF4/wALI3a/hy4uZpa9FvDzT01bPN1+lu9UbSnQx8O4rReHDqU1rN9uousrw/OzcrQtqar819WPvs81SYG7m9PktPQ7+b3XxiP1cTUxO+Hm9N/3aOzxlzGk9/lKp5qj6Jdh+Y6GiY/00dsuUxLnRmlZOiHxbzyrfuqGpid8PPaajKqj5+CwzWcMAAAAAAAAAAAACC+9yq+bqeizE7k7fPjthRqRx4uvocwOJZFxjJd2bn5lafFLf6qJ0qJ+GHhMX+or/lP3UbCOxdC7jVi49zkOJOLgt/MrOKN5RUKjXsqjFRqxe/UitiqLmfDxPqL6aoqeO0jgpw9zOObO7yc5nTo/nrSrZPScZNuVs2ouD4dzb2Yczww4OJSzdDBaXjKKL/18/NxdbI11B6s7a4TX+hVfY0tvUZiqXZpxNiqM4rp+sNlkjMu+uWvanb03v1bhOGC5oPa31Jc6JxU1cRpPD2o2TrTwjz3LSyRky2ybbOMWoU4J1K1ao0nOWG2cn3IhMzLzN+/dxd3OdszsiI+0Kjzuy2765lW2qlBbnQi9jVNPfa429r6lwF1E5Q9VgcLGGtavTO2e30aRxLIrbi0NEC9oufPx+rRVenPJ5rTn92js8ZctpPX5Rqeao+iXWasqHR0P+mjtlyjRdFbprJ0QeLeeVb91Q1sROcw87pznUfPwWGa7ggAAAAAAAAAAAARXfudTyJ+iyNfNnsTt8+O2FOytDzkVPeRdQztSUVpxcXHm8v8AB2q/daC/pRO7ZnO3TP7Q8Pi/1Ff8p+6klTaSTW8jkxce8iYljAsi6ZJLavUpTjUpSlTqQeMZxeDTLKbuSu5apuUzTVGcS7zI2kRYKF7Taktm7UVinzyg97qx6EbVGJid7z2J0HVE52Z+U+f/AI6Gnnlk6Sx9kJc0oVYvscS2LtHFzp0Xi4nLUnufDf5/2VNPct0uJcChBwjjzynhs6MR7Wlda0Nia5+KIpj958nAZx5y3N88KrVOinjGhBvUT4HJ++f9pIx7R38Jo+1httO2eM+HBo3ElFbdeXEnFYs3RJH2i5fBu6XXucfWiUzm8zpz+7R2eMuY0lrHKNTmp0V9EnRVlDpaI/Sx2y5VxLIrdNYuiNeDeeVb91QruTnk87p3nW/n4LBK3AAAAAAAAAAAAAAjuPEn5Eu4hXzZ7EqOdHareVseYh66LiGdsZzTi477NC5U7aMPfUMabXNvxfZs6juYG5r2ojhseb0jb1b8z0VbfNxWdOQ3QrzaXtVWUp03wbXi49Xdgc/FWpt1/tO53tH4yLtqInfTsnzaGdoa+s6UXUE7VkorWRchFKiyyLiWtCNxJxcZY1SyLhkxqlkXGMnlxLIuMZMwpOTUYpylJqMYxWLk3sSS4WTprRqmKYzndC5s0ckew7SFKeCqPGrWeKwU5b6x5kkuo242Q8Vj8T7xfmqN26Oz1VNnHfK5u69wtsalTwOeEUoxfWop9ZX7Ta9Zg7M2bFNE74jb2ztaxxJxW2VhaJ14N35VDuqEs83nNO77fz8HfGXAAAAAAAAAAAAAAxOOKa400YqjOJhmJynNxkrY8ru2PRRcQytwnFxPku5lb1NeO2L2Tjyo+svw9+bNWfR0qsRbi9RlO/odd7RdU8GlUpy309+L/wCGd2Jt36OMOL/UsV8JhornMym3jTqyguKUVPDrxRp1aOpmfhqydCjS1cR8VMT3PneY3+v/AEfvEeTv8u71W8sz1O/0eJZhfvH9H75nk7/Lu9Uo03PU7/RHLR8n/mP6H3zPJ89bu9Uo07PU7/RFLRzj/mf6H3zPuE9bu9Uo09P/AB9/o8PRt+9f7f75mMFPW7vVnl//AK+/0I6Ntu262c1vg/TJxhJ63cTp+ei33+joshZqWtm9eCdSth7tVaco8eqlsj385sUWqaHMxWkb2J+Gqco4R+bXO5852RlGVnaS1tbGNetF4x1eGnB8OPC+roovYmObS6Wi9GVZxeuxu3R4z4K+1SiLj0eTDiWRcYyWJototUrmpwTqwgv4IY/9zasznGbzOnqv6lFPCPvPo7cucEAAAAAAAAAAAAABpr+1wm3wS2r/AJPP42z7O7M9E7XSsXc6cuD45UDTbEVopUAnFbzTjKD1oNxlxxeH/pOi5VROdM5M1atcZVRm+2OWbhciXPKO35mjbp0hejhLXnCWp4sSy/ccml8mf2iXKN3hH582YwNrjP58kcs4rnk0vkz+0OUbvCPz5pRgLPGe7yRyzlueTR+RP7Q5Ru8I/PmlGj7PGe7yRyzouuTR+RP7Q5Ru8I/PmlGjbPGe7yRyzru+TQ+RU+0OUbvCPpPmlGjLHGe7yRTzuvOTQ+RP7RnlC7wj8+acaLscZ7vJp8q5Wu7hONWrLUe/ThhCDXE0t9dOJVcxVyvfLew+Ew9mc6advGdrRztCqKnQi6hlbMnFacVwj3GWOCTbbwSSxbb3kiyLiWtGWcrfzayZ7FtaVF+OlrVMPhJbZLq3uo7VqnVoiJeFx2I9vfqudHR2Q2hY1AAAAAAAAAAAAAAHirTUlg+p8TKb9mm9RqynRXNM5w11Wjg8H/6eeu2a7VWrVDcpr1ozhE6RUs1kcqISitHKiE4rRyoBOK0MrcJRWilbhZFaGduZSitDO3CyLiKduM04rQztjKcXEE7YZrIuIZWvMZzTi46nNjNrc5K4uFhNbaVN+9fLlz8S4One6+Dwk0/HX8ocXSGkdeJtW52dM+DqzpOKAAAAAAAAAAAAAAAAMSinsaxRCuimuMqozZiZjc+edouBtfOaFzRtE82cu9dF+el49hvjXYU8mVdaEvbxwPYT412GOTKutB7eODy7DnXYOTKutDPvH7PLyd+0uwcmVdaEoxX7PLyY+UuxjkyrrQz73+zw8kvlLsY5Mq60JRjI4PLyM+UuxmeTKutDPvscEbyG+WuxjkyrrQl7/HB4eb75cexjkyrrQzyhHAjm4vfVNn7Mdva2Sp0Zxq7idJT0UtjZZKo0tsI4z5ctsuri6jds4W3a2xG3jLUu4q5d2VTs4PtNlrgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=",
+    "title": "Instagram: Share Your Story",
+    "companyName": "Meta Platforms",
+    "id": "02",
+    "description": "Photo & video sharing social network",
+    "size": 60,
+    "reviews": 150000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 88000000 }
+    ]
+  },
+  {
+    "image": "data:image/png;base64,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",
+    "title": "WhatsApp: Chat. Call. Connect.",
+    "companyName": "Meta Platforms",
+    "id": "03",
+    "description": "Secure messaging and voice/video calls",
+    "size": 50,
+    "reviews": 120000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 66000000 }
+    ]
+  },
+  {
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw4QDxAQDw8QDxAVDQ4PEBAQEBANEBAPGhEWFhcRFRMYHyggGBolGxMVITEhJSkrLi4uFx8zODMtOCgtLysBCgoKDg0OGxAQGy0lICUvLS0tLi8tLSstLSstLS0tLy0rLS0tLS0tLS0tLS0vLS0tLSstLS0tLS0tLS0tLS0rLf/AABEIAOEA4QMBEQACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAgUDBAYBB//EADwQAAIBAgEIBwYFBAIDAAAAAAABAgMRBAUGEiExQVFhUnGBkaGxwRMiMkJi0SMzkrLhcsLw8YKiFCRT/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAEEBQMCBv/EADERAQACAQMCBQQABQQDAAAAAAABAgMEESESMQUyQVFhE3GBoSIjkbHhFMHR8DNCUv/aAAwDAQACEQMRAD8A+4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARc0trXeBH20ePgwHto8fBgSU096AkAAAAAAAAAAAAAAAAAAAAAAAAAPG0tb1Aa9TFdFdrAr8dlSlT/Nqxj9LfvPqitbOmPDfJ5YcsmfHj80qXEZ34ePwQqVOdlBeOvwLlPDsk95iFK/ieOPLEy0Z57S3YddtVv+07R4ZHrb9OM+KT6V/f8AhGOfE9+Gi+qq1/aTPhcelv0iPFbetP3/AIbmHz4w7/MpVYc1o1F6PwOVvDMkeWYl2p4pjnzRMLzJ2XMNWsqNeMpdBvQn+iVn4FPJp8uPzVXMWpxZPLZaxrcTi7sqd9gHoAAAAAAAAAAAAAAAAAAAAMdasornuQFTlDKEKcdOrKy3La2+EVvOmPFbJO1Yc8uamKN7S5TKWcNapdU/wocvjfXLd2d5q4dFSnNuZ/TGz6/JfivEftRT13b1va29bZejjhQnlikj0hjkiRCSJQxtHpCDRIvMkZ1YqhaMn7en0Kjekl9M9q7bopZ9DiycxxP/AH0XcGuy4uJ5j5/5d9kXLdHEx0qMveSWnTlqnHrW9c1qMXPp74Z2tH5bWDU0zRvX+i4pzv1nBYTAAAAAAAAAAAAAAAAAAGKvWUVz3IChyrlONKOlL3pv4Y8eb4I74ME5Z+FbUamuGvz6Q47F4idWTnN3fglwS3I2seOtI2qwcmS2S3VaWtJHRzY2j0hCSJGNolCDRIg0ShBolCLRInh606U41KcnCcXeMo6mv45EXrW9em0bw9Utak9VZ2l9HzYzijio6M7QrxV5RWpTXTj6rcfP6vSThnePK39JrIzRtPm/v9nTU536ymvJgAAAAAAAAAAAAAAAPJSSTb2AUmUMaoqVSWxbFx4RR7x45vbphzy5Yx0m0uNxVaVSTnJ3b7kuC5G5jpFK9MPncmS2S02s1pI6OaDRMDHJHpCDRKGOSJEGiUINEiLiShFxJEdEIToVZ05xnCTjOLUoyW1Mi1YtE1t2eq2msxaO76lm9leOJoqorKa92pDoz5cntX8HzmpwThv0+no+k0uojNTq9fVdxd1crrL0AAAAAAAAAAAAAADSyhV2RXW+oDkMuYnTnoL4Y6uuW9+neaukxdNeqe8sTXZuu/THaP7qpouKKDRKGOSJEGj0hCSJEGiUINEiDRKEWiRs4LJWIr/k0ZzXSStH9T1eJyvnx080uuPBkyeWsy1q9CUJShOLjKLalF7UzpW0WjeOznas1nae7Honp5W2bOUv/GxEW3anO0KnC19Uux6+q5V1eH6uP5jstaPN9LJE+k8S+oUJbj559IzgAAAAAAAAAAAAAAUWUcTZVJ8E7eS9D3jp12irnmv0UmzkpG3D5ueWNo9IY2iRBolCDRIg0ekINEjJhsFVqu1KnKo/pTaXW9i7TxfLWnmnZ6pivedqxuv8DmXWlrrTjSXRj+JPq4LxKeTxGseSN1/H4befPO37dFgM2cHRs1T9pLpVfxH122LsRRyavLf12+y/i0WHH6bz8rhIrLb5RnDUU8XiJL/7Sj+n3f7T6LTR04ax8PmdVbqzWn5V+id93B5ojcfSs2Ma6uGpSbvKP4cuN46r9qs+0+f1eP6eWYj7vo9Hl+phiZ79l+VloAAAAAAAAAAAACFeVoyf0sDlssz/AA0uMl3Jf6LejrveZUPELbY4j3lRtGmxkGiRjaJQg0SPIUpSejGLlLcopyfchNoiN5TWs2naIW+DzVxNTXPRox+r3pfpXq0Vb63HXtyuY/D8tvNwv8DmrhadnNOtL6/h/StXfcp5Nbkt24X8egxV78/ddRjCEdSjCKW60YpehV3mZW9orHtChxWcLqVPYYKKq1HtqS1UoLfLmlx2dZbrpemvXl4j29VK+r6rdGGN59/SFxgMPKnC06kqs29Kc5b5co7IrgkVr2i07xG0LeOk1rtM7yyYmsoQnN7IwlN9SV/Q81jqmIer26azPs+RSbbbe1tt9b1s+miNo2fKzO87o6JIaIHWZi1vzqf9FReKflEy/Ea+W34a3hlvNX8u1pPUjLayYAAAAAAAAAAAAYMc/wAOXZ5oDlcsv4Fyl6F7R+rL8RnmsfdVtF9mMbRKG5g8jYitrjDRj0p+7Hs3vsON9RSneVjHpcmTtHHyvMHmrSjrqydR9Fe5H7vvRUvrbz5eF/H4dSPPO67w+Gp01anCMF9KSv18Spa1rTvaV6mOtI2rGzMeXtWZWy3Rw+pvTqbqcdv/ACfynfDp75O3b3Vs+qpi78z7OTq4nF5QqezWqN76CuqcF0pPf/ljRimLTV6p7/v8MucmbVW6Y7fr8uwyRkqnhoaMFeTtpzfxTfouRmZs1stt5a2DBXDXaG+cndTZ3V9DB1OM9Gmu16/+qZZ0derNHxyqa6/Thn54fOdE3Xz5ohBogXuZrtiJLjQl+6JR8Q/8UfdoeGz/ADZ+zvsPs7THbjIAAAAAAAAAAAAGvj/y5dn7kBy+V1rh1S9C9o+0svxGOa/lWNF5mJYapoTjNxUtGSei9jPN69VZh7x36LRbbs6rDZw4eWqWlTf1K6716mdfS5K9uWxj12K3fhaUqsZq8JRkuMWpLvRXmJjiVqtotG8ShicTTpR0qklGPF7+SW9k1ra07RCL5K0je07OUytnLUneNC9OOzT+d9XR8zRw6OI5vyys+vtbjHxH7VeTMl1MTO0dSvedR60vu+RYy564q/7KuDBfNbj8y7vJ2Ap0IKFNWW1t65SfFsx8mS2Sd7N3Firir01bR4dQDks+6/5NLnKo/wBq85Gj4fXmbfhleJX8tfy5Kxpsp5YILAXeaEf/AGG+FGf7olLXz/K/K/4dH838O7w/w9pkNxlAAAAAAAAAAAADHiI3hJfSwOXynG8U+EvNfwW9Jba0woeIV3pE+0qto0GQg0ShFokKc5Rd4SlF8YtxfeiJrFuJTW01neJ2eYmvUqO9Scpu1k272XIUpWvlhN8lrzvad21kbJTxE2tLRhGzm9Wlbgl6nPPn+nHy7abTfWt34h2+Fw8KUFCnFRitiXnzZk2tNp3luUpWkdNezKeXsAAcBnTW08VPhFRprsV34tmzo69OKPnlga2/Vmn44VFi0qGiA0QOizQo66s+UYLxb8kZ2vtxWrU8NpzazsaK91Ga1kwAAAAAAAAAAAAAc/j6Hxw67ea9D3it03iXLPTrxzVRNGs+eRaJEGiUINEiLRI9pVJQkpQk4yWxrUxasWjaU1tNZ3rLpslZxRlaFe0ZbFUWqL6+j5dRn5tJNeaNXT66Lfw5OJ91+mUmi9AjUmopyexJt9SJiN52RM7Ru+Z1pucpTe2UpSfW3f1N6sdMRD5m09Vpn3Y7Hrd5LDcLAdjm9htChBfNN6b7dngkY2qv15J+OG9osfRij55dCkV1sAAAAAAAAAAAAABXZUpbJrqfoBzuMpWlfc9a9UaWnydVdvZiazD0X3jtLWaO6og0SItEiLRKEWiRFoCxyXlirQsvjp9BvZ/S93VsOGbT1yc9pWsGqvi47w63A42nWjpU5X4rZKL4NGZfHak7WbGLLXJG9Za2cVfQw1TjJKC7XZ+Fzppq9WSHPWX6cM/0cJY2GAWCHmiSNrJuD9rVjH5fin/Stv27Tjny/TpMu+nwzlyRX09Xc4SGu+5akYr6JtgAAAAAAAAAAAAAARqQUk09jVgKDGYbbB7dz8mdMd5pbdxz4oy06VRODTs9pp1tExvDCtWaztKDR6eEGiRFoCLRKEWiR44gZMNXnSkp05OMl4rg1vRF6VvG1nvHktjness+UMp1q6SqNWTulFWV+L5njFhpj5h0zai+XizR0TsrvNEAoN6krvYlxYmduUxEzxDqskYD2UbfPKzl9uwyNRm+pbjs3dLg+lTnvPde04WSRwWkgAAAAAAAAAAAAAAAGvjMMpr6lsfoBQ4rDX5SWrX5M7Yc3RxPZV1OmjLG8d1dODTs9poxMTG8Ma1ZrO0oNHp5RaCEWiRFoDyxI8sEPLEjywBQb1LW9yWsb7ERM8QvclZN0LTmrz3Lbo/yZ2o1HX/DXs2NJpPp/wAVu/8AZ0OHo6Ku9vlyKi+zAAAAAAAAAAAAAAAAAADXxeFU9eyW5+jApsVhd01Z7n/m06Y8tqTw4ZsFMsc9/dXVcPKPNcUXseatmVl0t8fzDC0dlZFoncRaCHjRI8cQPLAZcPg5z+Fauk9SOd81ad3bFp75J4hdYDJ8YbFpT6X24Gflz2v9mvg0tMXPefdc4fDqOt635HFZZwAAAAAAAAAAAAAAAAAAAAQqU4yVpK6A0K2T2tcHfk9T7wK+vg180XF8dn+zrXNevqr5NLjv3hrSwPCXejvGq94VbeH/APzZjeAnxj3v7HuNVRynQZPgWT58Y97+xP8AqqI/0GT4Thk3jLuR4nV+0OlfD5/9rNqhk+C2Rc3z97w2HC+ovZax6TFT03+6zpYJ/NqXBbTitNynTUVZKwEwAAAAAAAAAAAAAAAAAAAAAAADxoDFLC038q7NXkBjeAp812gFgYc+8DJHC018vfdgZUktmoD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//Z",
+    "title": "Telegram: Chat Without Limits",
+    "companyName": "Telegram FZ‑LLC",
+    "id": "04",
+    "description": "Messaging focused on speed and privacy",
+    "size": 45,
+    "reviews": 60000000,
+    "ratingAvg": 4.4,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 31500000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLofX86OgFv_wKCFQS9lct4IfN3rVyza01w&s",
+    "title": "CapCut: Edit Like a Pro",
+    "companyName": "ByteDance",
+    "id": "05",
+    "description": "Video editor & maker with effects",
+    "size": 90,
+    "reviews": 80000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 41500000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Snapchat/Snapchat-Logo.wine.svg",
+    "title": "Snapchat: Capture the Moment",
+    "companyName": "Snap Inc.",
+    "id": "06",
+    "description": "Multimedia messaging & stories",
+    "size": 70,
+    "reviews": 50000000,
+    "ratingAvg": 4.2,
+    "downloads": 1200000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 18500000 },
+      { "name": "5 star", "count": 20000000 }
+    ]
+  },
+  {
+     "image": "https://img.freepik.com/free-psd/social-media-logo-design_23-2151296987.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Facebook: Your World, Your People",
+    "companyName": "Meta Platforms",
+    "id": "07",
+    "description": "Social networking & connections",
+    "size": 80,
+    "reviews": 140000000,
+    "ratingAvg": 4.1,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 74000000 }
+    ]
+  },
+  {
+    "image": "https://www.ilovephd.com/wp-content/uploads/2023/03/ChatGPT-Logo.png",
+    "title": "ChatGPT: Your AI Brainstorm Buddy",
+    "companyName": "OpenAI",
+    "id": "08",
+    "description": "AI conversational assistant",
+    "size": 40,
+    "reviews": 25000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/masterful-flat-design-unveil-ultimate-youtube-player-icon-your-project_867537-190.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "YouTube: Watch, Listen, Stream",
+    "companyName": "Google / Alphabet",
+    "id": "09",
+    "description": "Video streaming & sharing platform",
+    "size": 120,
+    "reviews": 250000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 50000000 },
+      { "name": "5 star", "count": 180000000 }
+    ]
+  },
+  {
+    "image": "https://assets.designhill.com/design-blog/wp-content/uploads/2023/12/4-2.jpg",
+    "title": "Reddit: Dive into anything",
+    "companyName": "Reddit Inc.",
+    "id": "10",
+    "description": "Community discussion and content sharing",
+    "size": 70,
+    "reviews": 100000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 70000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/006/057/998/non_2x/twitter-logo-on-transparent-background-free-vector.jpg",
+    "title": "Twitter: What's happening",
+    "companyName": "X Corp.",
+    "id": "11",
+    "description": "Social networking & microblogging",
+    "size": 60,
+    "reviews": 120000000,
+    "ratingAvg": 4.0,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 80000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Spotify/Spotify-Icon-Logo.wine.svg",
+    "title": "Spotify: Music for everyone",
+    "companyName": "Spotify AB",
+    "id": "12",
+    "description": "Music streaming & podcasts",
+    "size": 90,
+    "reviews": 110000000,
+    "ratingAvg": 4.5,
+    "downloads": 2500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 70000000 }
+    ]
+  },
+  {
+    "image": "https://logos-world.net/wp-content/uploads/2020/11/Google-Play-Emblem.png",
+    "title": "Google Play Store",
+    "companyName": "Google / Alphabet",
+    "id": "13",
+    "description": "Apps, games, books, and more store",
+    "size": 100,
+    "reviews": 150000000,
+    "ratingAvg": 4.4,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 97000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png",
+    "title": "LinkedIn: Professional Network",
+    "companyName": "Microsoft",
+    "id": "14",
+    "description": "Career networking & job search",
+    "size": 80,
+    "reviews": 75000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "image": "https://images.ctfassets.net/h67z7i6sbjau/5zteWRcC1qbgLZoClcMmYl/a0391fdc321eddce7de41152108723b5/Brand_Guidelines_hero_2x.jpg?fm=webp&q=85",
+    "title": "Pinterest: Explore & Save",
+    "companyName": "Pinterest, Inc.",
+    "id": "15",
+    "description": "Image discovery & inspiration",
+    "size": 85,
+    "reviews": 65000000,
+    "ratingAvg": 4.4,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 45000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Dropbox_(service)/Dropbox_(service)-Icon-Logo.wine.svg",
+    "title": "Dropbox: Cloud Storage",
+    "companyName": "Dropbox, Inc.",
+    "id": "16",
+    "description": "File storage & sharing in cloud",
+    "size": 75,
+    "reviews": 30000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+  "image": "https://static.vecteezy.com/system/resources/previews/020/336/373/non_2x/netflix-logo-netflix-icon-free-free-vector.jpg",
+  "title": "Netflix: Watch TV Shows & Movies",
+  "companyName": "Netflix, Inc.",
+  "id": "17",
+  "description": "Streaming platform for movies and series",
+  "size": 200,
+  "reviews": 180000000,
+  "ratingAvg": 4.3,
+  "downloads": 1000000000,
+  "ratings": [
+    { "name": "1 star", "count": 8000000 },
+    { "name": "2 star", "count": 7000000 },
+    { "name": "3 star", "count": 12000000 },
+    { "name": "4 star", "count": 40000000 },
+    { "name": "5 star", "count": 113000000 }
+    ]
+}
+,
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/013/948/543/non_2x/google-maps-logo-on-transparent-white-background-free-vector.jpg",
+    "title": "Google Maps: Navigation & Discovery",
+    "companyName": "Google / Alphabet",
+    "id": "18",
+    "description": "Maps, navigation & local places",
+    "size": 90,
+    "reviews": 120000000,
+    "ratingAvg": 4.5,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 90000000 }
+    ]
+  },
+  {
+  "image": "https://static.vecteezy.com/system/resources/thumbnails/027/127/501/small_2x/uber-logo-uber-icon-transparent-free-png.png",
+  "title": "Uber: Ride & Delivery",
+  "companyName": "Uber Technologies Inc.",
+  "id": "19",
+  "description": "Book rides, food delivery, and package transport",
+  "size": 85,
+  "reviews": 85000000,
+  "ratingAvg": 4.2,
+  "downloads": 1000000000,
+  "ratings": [
+    { "name": "1 star", "count": 5000000 },
+    { "name": "2 star", "count": 4000000 },
+    { "name": "3 star", "count": 9000000 },
+    { "name": "4 star", "count": 25000000 },
+    { "name": "5 star", "count": 42000000 }
+  ]
+}
+,
+  {
+  "image": "https://img.freepik.com/premium-vector/vector-discord-social-media-logo_534308-21667.jpg?semt=ais_hybrid&w=740&q=80",
+  "title": "Discord: Chat & Communities",
+  "companyName": "Discord Inc.",
+  "id": "20",
+  "description": "Voice, video, and community chat for gamers and groups",
+  "size": 95,
+  "reviews": 90000000,
+  "ratingAvg": 4.5,
+  "downloads": 500000000,
+  "ratings": [
+    { "name": "1 star", "count": 1200000 },
+    { "name": "2 star", "count": 900000 },
+    { "name": "3 star", "count": 2000000 },
+    { "name": "4 star", "count": 15000000 },
+    { "name": "5 star", "count": 71000000 }
+  ]
+}
+,
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcaKPsB3n3oQKXglaA8I2NTu56kgbhoRAWog&s",
+    "title": "Apple: Technology & Hardware",
+    "companyName": "Apple Inc.",
+    "id": "21",
+    "description": "Consumer electronics, software & services",
+    "size": 95,
+    "reviews": 90000000,
+    "ratingAvg": 4.2,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 60000000 }
+    ]
+  },
+  {
+    "image": "https://e7.pngegg.com/pngimages/277/785/png-clipart-computer-icons-google-play-android-google-contacts-others-miscellaneous-blue.png",
+    "title": "Google Contacts",
+    "companyName": "Google / Alphabet",
+    "id": "22",
+    "description": "Manage your contacts",
+    "size": 60,
+    "reviews": 25000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "image": "https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png",
+    "title": "Google Drive: Cloud Storage",
+    "companyName": "Google / Alphabet",
+    "id": "23",
+    "description": "Cloud file storage & syncing",
+    "size": 85,
+    "reviews": 60000000,
+    "ratingAvg": 4.4,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWLrGQjHt8ThxwZhlEBbbReRFpKdmf8ujDQ&s",
+    "title": "Slack: Team Communication",
+    "companyName": "Slack Technologies",
+    "id": "24",
+    "description": "Chat for workplaces & teams",
+    "size": 70,
+    "reviews": 30000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/013/901/770/non_2x/whatsapp-business-icon-ios-whatsapp-business-social-media-logo-on-white-background-free-free-vector.jpg",
+    "title": "WhatsApp Business",
+    "companyName": "Meta Platforms",
+    "id": "25",
+    "description": "Business messaging & tools",
+    "size": 55,
+    "reviews": 10000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+  },
+  {
+  "image": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-logo-meaning.jpg",
+  "title": "Amazon: Shop & Order Online",
+  "companyName": "Amazon Inc.",
+  "id": "26",
+  "description": "Online shopping for electronics, fashion, and more",
+  "size": 110,
+  "reviews": 200000000,
+  "ratingAvg": 4.4,
+  "downloads": 5000000000,
+  "ratings": [
+    { "name": "1 star", "count": 8000000 },
+    { "name": "2 star", "count": 6000000 },
+    { "name": "3 star", "count": 15000000 },
+    { "name": "4 star", "count": 45000000 },
+    { "name": "5 star", "count": 126000000 }
+  ]
+}
+,
+  {
+    "image": "https://logos-world.net/wp-content/uploads/2020/09/Skype-Emblem.png",
+    "title": "Skype: Call & Chat",
+    "companyName": "Microsoft",
+    "id": "27",
+    "description": "Voice & video calls, messaging",
+    "size": 65,
+    "reviews": 40000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 25000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Computer_icon_for_Dropbox_Paper_app.png",
+    "title": "Dropbox Paper",
+    "companyName": "Dropbox, Inc.",
+    "id": "28",
+    "description": "Collaborative document editing",
+    "size": 60,
+    "reviews": 15000000,
+    "ratingAvg": 4.0,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/042/712/651/non_2x/google-chat-icon-logo-symbol-free-png.png",
+    "title": "Google Chat",
+    "companyName": "Google / Alphabet",
+    "id": "29",
+    "description": "Team messaging & collaboration",
+    "size": 55,
+    "reviews": 20000000,
+    "ratingAvg": 4.2,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  }
+
+]

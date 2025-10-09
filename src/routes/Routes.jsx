@@ -1,3 +1,4 @@
+// src/routes/Routes.jsx
 import React from 'react';
 import { createBrowserRouter } from "react-router";
 import Root from '../pages/Root/Root';
@@ -26,6 +27,7 @@ import Installation from '../component/installation/Installation';
         
         {
           path:'/apps',
+          loader: ()=>fetch('allapps.json'),
           Component:Apps
         },
         {

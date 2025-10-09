@@ -1,3 +1,4 @@
+// src/component/Header/Navbar.jsx
 import React from 'react';
 import { NavLink } from 'react-router';
 import logo from '../../assets/logo.png'
@@ -65,9 +66,21 @@ const Navbar = () => {
 }>Instalation</NavLink></li>
     </ul>
   </div>
-  <div className="navbar-end">
-   <button className='bg-gradient-to-r from-[#632ee3] to-[#9F62F2] px-4 py-3 rounded-lg flex text-white items-center justify-between'> <img className='flex items-center' src={cat} alt="" /> <p className='ml-2 font-semibold'>Contribute</p> </button>
-  </div>
+ <div className="navbar-end flex items-center justify-end">
+  <a
+    href="https://github.com/siddiquemd786"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <button className="bg-gradient-to-r from-[#632ee3] to-[#9F62F2] px-4 py-1 rounded-lg flex items-center justify-center text-white font-semibold shadow-md hover:opacity-90 transition">
+      <img className="w-12 mt-3 h-12 object-contain" src={cat} alt="GitHub" />
+      <p className="ml-2 leading-none text-2xl flex items-center">Contribute</p>
+    </button>
+  </a>
+</div>
+
+
+
 </div>
     );
 };
