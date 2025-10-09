@@ -8,7 +8,7 @@ import './nav.css'
 
 const Navbar = () => {
     return (
-        <div className="navbar  shadow-sm">
+        <div className="navbar w-11/12 mx-auto  ">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0}  className="btn btn-ghost lg:hidden">

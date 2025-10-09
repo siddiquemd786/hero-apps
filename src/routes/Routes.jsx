@@ -6,6 +6,7 @@ import Errorpage from '../pages/ErrorPages/Errorpage';
 import Home from '../pages/Home/Home';
 import Apps from '../component/apps/Apps';
 import Installation from '../component/installation/Installation';
+import AppDetails from '../component/AppDetails/AppDetails';
 
 
 
@@ -33,6 +34,11 @@ import Installation from '../component/installation/Installation';
         {
           path:"/installations",
           Component:Installation
+        },
+        {
+          path:"/appDetails/:id",
+          loader: ()=>fetch('/allapps.json'),
+          Component:AppDetails
         }
     ]
   },

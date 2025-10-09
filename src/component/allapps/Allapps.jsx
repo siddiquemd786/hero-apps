@@ -2,15 +2,17 @@
 import React from 'react';
 import download from '../../assets/icon-downloads.png'
 import star from '../../assets/icon-ratings.png'
+import { Link } from 'react-router';
 
 const Allapps = ({data}) => {
 
-    const {image,ratingAvg,reviews,title}=data
+    const {image,ratingAvg,reviews,title,id}=data
 
 
     
     return (
         <div>
+              <Link to={`/appDetails/${id}`}>
               <div className='p-4 border border-amber-100  shadow-lg rounded-sm '>
             
                             <div className='flex justify-center'><img className='   w-[316px] h-[316px]  object-contain' src={image} alt="" /></div>
@@ -27,7 +29,9 @@ const Allapps = ({data}) => {
                                    {ratingAvg}
                                 </div>
                             </div>
-                        </div>
+              </div>
+              
+              </Link>
         </div>
     );
 };

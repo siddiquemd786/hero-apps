@@ -32,7 +32,7 @@ const Apps = () => {
             <div className='grid grid-cols-4 gap-6 flex-1 '>
                 {filteredData.length > 0 ? (
           filteredData.map(data => (
-            <Allapps key={data.id} data={data} />
+            <Allapps key={(data.id)} data={data} />
           ))
         ) : (
           <p className="text-center col-span-4 text-gray-500">No apps found</p>
