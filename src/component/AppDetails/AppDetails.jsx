@@ -4,13 +4,13 @@ import { useLoaderData, useParams } from 'react-router';
 import downloadImg from '../../assets/icon-downloads.png'
 import star from '../../assets/icon-ratings.png'
 import reveiwImg from '../../assets/icon-review.png'
-import { Bar, BarChart, XAxis, YAxis } from 'recharts';
+import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from 'recharts';
 const AppDetails = () => {
 
     const {id}=useParams();
     const data=useLoaderData()
     const singleData= data.find(app=>app.id===id)
-    const {image,title,companyName,downloads,ratingAvg,reviews,ratings}=singleData
+    const {image,title,companyName,downloads,ratingAvg,reviews,ratings,description}=singleData
     
 
    
@@ -62,21 +62,30 @@ const AppDetails = () => {
                 </div>
             </div>
 
-            <div>
-
+            <div className='w-11/12 mx-auto'>
+            <h1 className='text-2xl font-semibold ml-8'>Ratings</h1>
+ <ResponsiveContainer width="100%" height="100%"></ResponsiveContainer>
                 <BarChart
-  width={800}
-  height={500}
-  data={sortedRatings} // ✅ Sorted data used here
+  width={1000}
+  height={250}
+  data={sortedRatings} 
   layout="vertical"
-  margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
+  barCategoryGap="0%"   
+  barGap={0}          
+  barSize={30}
+  margin={{ top: 5, right: 10, left: 20, bottom: 5 }}
 >
   <XAxis type="number" />
   <YAxis dataKey="rat" type="category" />
-  <Bar dataKey="count" fill="yellow" />
+
+  <Bar dataKey="count" fill="#FF8811" />
 </BarChart>
 
 
+            </div>
+            <div className='my-5 w-11/12 mx-auto'>
+                <h1 className='text-2xl font-semibold'>Description</h1>
+                {description}
             </div>
             
         </div>
