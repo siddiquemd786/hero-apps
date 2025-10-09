@@ -1,5 +1,5 @@
 // src/component/apps/Apps.jsx
-import React from 'react';
+import React, { useState } from 'react';
 import Allapps from '../allapps/Allapps';
 import { useLoaderData } from 'react-router';
 import SingleApp from '../data/SingleApp';
@@ -9,6 +9,11 @@ import search from '../../assets/search.png'
 const Apps = () => {
 
     const allData=useLoaderData();
+    const [searchText, setSearchText] = useState("")
+
+    const filteredData = allData.filter(item =>
+    item.title.toLowerCase().includes(searchText.toLowerCase())
+  );
     
 
 
@@ -20,13 +25,18 @@ const Apps = () => {
             <h1 className='text-2xl font-semibold'> ({allData.length}) Apps found  </h1>
             <div className='flex items-center border border-amber-200 rounded-sm '>
                 <img className='w-10 h-10' src={search} alt="" />
-                <input  type="search" name="search" id="" placeholder='Search' className='text-xl items-center pb-1 outline-0 border-none' />
+                <input onChange={(e) => setSearchText(e.target.value)} type="search" name="search" id="" placeholder='Search' className='text-xl items-center pb-1 outline-0 border-none' />
+                
             </div>
            </div>
-            <div className='grid grid-cols-4 gap-6 '>
-                {
-                    allData.map(data=> <Allapps key={data.id} data={data}></Allapps>  )
-                }
+            <div className='grid grid-cols-4 gap-6 flex-1 '>
+                {filteredData.length > 0 ? (
+          filteredData.map(data => (
+            <Allapps key={data.id} data={data} />
+          ))
+        ) : (
+          <p className="text-center col-span-4 text-gray-500">No apps found</p>
+        )}
 
             </div>
           

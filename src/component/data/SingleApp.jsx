@@ -12,8 +12,8 @@ const SingleApp = ({data}) => {
         <div>
             <div className='p-4 border border-amber-100 shadow-lg rounded-sm '>
 
-                <div className='flex justify-center'><img className='border-red-100  w-[316px] h-[316px] shadow-lg object-contain' src={image} alt="" /></div>
-               <div className='p-4 font-semibold text-xl'>
+                <div className='flex justify-center'><img className='  w-[316px] h-[316px] border-amber-600 object-contain' src={image} alt="" /></div>
+               <div className='p-4 min-h-20 font-semibold text-xl'>
                  {title}
                </div>
                 <div className='flex justify-between p-4'>
