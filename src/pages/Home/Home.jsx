@@ -1,3 +1,4 @@
+// src/pages/Home/Home.jsx
 import React from 'react';
 import Banner from '../../component/banner/Banner';
 import TrustedZone from '../../component/Trusted/TrustedZone';
@@ -17,7 +18,7 @@ const dataApp=useLoaderData()
          <TrustedZone></TrustedZone>
          <div>
 
-          <div className='grid grid-cols-4'>
+          <div className='grid grid-cols-4 gap-5 '>
               {
                 dataApp.map(data=> <SingleApp key={data.id} data={data}></SingleApp> )
             }

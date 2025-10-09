@@ -1,3 +1,4 @@
+// src/component/apps/Apps.jsx
 import React from 'react';
 
 const Apps = () => {
