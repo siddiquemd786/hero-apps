@@ -1,11 +1,11 @@
 // src/component/AppDetails/AppDetails.jsx
 import React, { useEffect, useState } from 'react';
-import { useLoaderData, useParams } from 'react-router';
+import { Navigate, useLoaderData, useParams } from 'react-router';
 import downloadImg from '../../assets/icon-downloads.png'
 import star from '../../assets/icon-ratings.png'
 import reveiwImg from '../../assets/icon-review.png'
 import { Bar, BarChart, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
-import { addStoreData } from '../../utility/addToDB';
+
 
 
 
@@ -26,19 +26,35 @@ const AppDetails = () => {
         
     })
     const [install, setInstall] = useState(false);
+
     useEffect(() => {
-        const storedData = JSON.parse(localStorage.getItem("installedApps")) || [];
-        if (storedData.includes(id)) {
-            setInstall(true); 
-        }
-    }, [id])
-
-
-    const handalerInstall=(id)=>{
-        addStoreData(id)
+    const storedData = JSON.parse(localStorage.getItem("installedApps")) || [];
+    if (storedData.some(app => app.id === id)) {
         setInstall(true);
-
     }
+}, [id]);
+
+
+
+   const handalerInstall = (id) => {
+    const installedApp = JSON.parse(localStorage.getItem("installedApps")) || [];
+
+  
+    const exists = installedApp.some(app => app.id === id);
+    if (exists) {
+        alert("App already installed!");
+        setInstall(true);
+        return;
+    }
+
+    installedApp.push(singleData);
+    localStorage.setItem("installedApps", JSON.stringify(installedApp));
+
+    setInstall(true);
+    Navigate("/installations");
+};
+
+
 
 
    const sortedRatings = [...ratingsData].sort((a, b) => b.count - a.count);

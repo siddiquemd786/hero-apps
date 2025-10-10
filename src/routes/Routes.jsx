@@ -33,7 +33,7 @@ import AppDetails from '../component/AppDetails/AppDetails';
         },
         {
           path:"/installations",
-          Component:Installation
+          element:<Installation></Installation>
         },
         {
           path:"/appDetails/:id",
