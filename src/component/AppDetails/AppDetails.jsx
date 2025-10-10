@@ -1,10 +1,12 @@
 // src/component/AppDetails/AppDetails.jsx
 import React, { useEffect, useState } from 'react';
 import { Navigate, useLoaderData, useParams } from 'react-router';
+import { useNavigate } from "react-router-dom";
 import downloadImg from '../../assets/icon-downloads.png'
 import star from '../../assets/icon-ratings.png'
 import reveiwImg from '../../assets/icon-review.png'
 import { Bar, BarChart, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import { toast } from 'react-toastify';
 
 
 
@@ -42,7 +44,8 @@ const AppDetails = () => {
   
     const exists = installedApp.some(app => app.id === id);
     if (exists) {
-        alert("App already installed!");
+        alert("hello")
+       
         setInstall(true);
         return;
     }
@@ -89,7 +92,10 @@ const AppDetails = () => {
                         </div>
                     
                     <button 
-  onClick={() => handalerInstall(id)}
+ onClick={() => {
+    handalerInstall(id);
+    toast.success("App Installed Successfully!");
+  }}
   disabled={install} 
   className={`w-[239px] h-[52px] rounded-sm text-white text-xl font-semibold mt-2 cursor-pointer ${
     install ? "bg-gray-400 cursor-not-allowed" : "bg-green-600"

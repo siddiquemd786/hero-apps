@@ -1,7 +1,9 @@
+// src/pages/Root/Root.jsx
 import React from 'react';
 import Navbar from '../../component/Header/Navbar';
 import Footer from '../../component/Footer/Footer';
 import { Outlet } from 'react-router';
+ import { ToastContainer} from 'react-toastify';
 
 const Root = () => {
     return (
@@ -11,9 +13,10 @@ const Root = () => {
  <Outlet></Outlet>
            </div>
             <Footer></Footer>
-            
+            <ToastContainer></ToastContainer>
         </div>
     );
+    
 };
 
 export default Root;

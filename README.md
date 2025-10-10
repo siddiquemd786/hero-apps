@@ -1,16 +1,33 @@
-# React + Vite
+# 🚀 Hero Apps – App Store Style Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hero Apps is a modern web-based application that showcases a collection of popular digital apps with features like installation management, size-based sorting, app insights, and data visualization. The interface is clean, responsive, and designed to mimic a mini app store experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+✅ Browse and view app cards with image, title, size, and ratings  
+✅ Detailed app pages with additional information and charts  
+✅ Install / Uninstall apps with state saved in **localStorage**  
+✅ Sort installed apps by **size (Low → High / High → Low)**  
+✅ Interactive charts built using **Recharts**  
+✅ Fast and optimized performance using **Vite**  
+✅ Responsive UI styled with **TailwindCSS + DaisyUI**  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Technology | Purpose |
+|-----------|--------|
+| **React 19** | Component-based UI development |
+| **React Router 7** | Client-side navigation |
+| **Vite 7** | Lightning-fast dev server & build tool |
+| **TailwindCSS 4** | Utility-first CSS styling |
+| **DaisyUI 5** | Ready UI components on top of Tailwind |
+| **Axios** | Data fetching |
+| **Recharts** | Data visualization (charts & graphs) |
+| **LocalStorage API** | Persistent app install tracking |
+| **ESLint** | Code quality and linting support |
+
+

@@ -1,8 +1,10 @@
+// src/component/installation/Installation.jsx
 
 import React, { useEffect, useState } from "react";
 
 const Installation = () => {
   const [installedApps, setInstalledApps] = useState([]);
+   const [sortOrder, setSortOrder] = useState("");
 
 
   useEffect(() => {
@@ -17,13 +19,41 @@ const Installation = () => {
     setInstalledApps(newApps); 
     localStorage.setItem("installedApps", JSON.stringify(newApps));
   };
+  const handleSort = (e) => {
+    const order = e.target.value;
+    setSortOrder(order);
+
+    const sortedApps = [...installedApps].sort((a, b) => {
+      if (order === "High-Low") {
+        return b.size - a.size; // Highest first
+      } else {
+        return a.size - b.size; // Lowest first
+      }
+    });
+
+    setInstalledApps(sortedApps);
+  };
+
 
   return (
     <div className="w-10/12 mx-auto mt-10">
       <h1 className="text-2xl font-bold mb-5">Installed Apps</h1>
+      
       {installedApps.length === 0 && (
         <p className="text-gray-600">No apps installed yet.</p>
       )}
+
+      
+      <div className="flex justify-between my-4 items-center  mx-auto" >
+        <h1 className="text-2xl font font-semibold ">{installedApps.length} - Apps Found</h1>
+      <select className="border border-amber-300 p-2 rounded-sm text-xl font-semibold" value={sortOrder} onChange={handleSort}>
+  <option disabled value="">Sort by Size</option>
+  <option value="Low-High">Low-High</option>
+  <option value="High-Low">High-Low</option>
+</select>
+     
+
+      </div>
       <ul className="list-disc pl-5">
         {installedApps.map((app, index) => (
           <li

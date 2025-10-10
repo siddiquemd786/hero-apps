@@ -20,7 +20,7 @@ import AppDetails from '../component/AppDetails/AppDetails';
     children:[
         {   index:true,
             path:'/',
-                loader: ()=>fetch('app.json'),
+                loader: ()=>fetch('/app.json'),
            
            Component:Home
             
@@ -28,7 +28,7 @@ import AppDetails from '../component/AppDetails/AppDetails';
         
         {
           path:'/apps',
-          loader: ()=>fetch('allapps.json'),
+          loader: ()=>fetch('/allapps.json'),
           Component:Apps
         },
         {

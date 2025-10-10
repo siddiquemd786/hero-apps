@@ -12,12 +12,14 @@ const Banner = () => {
 <p className='text-center text-[#627382] w-[70%] text-[20px]'>AtHERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
      <div className='flex gap-8 mt-5'>
         <div className='flex gap-2'>
-            <img src={playStore} alt="" />
-            <h2 className='font-semibold'>Google Play</h2>
+            <a href="/https://play.google.com/store/games?hl=en" className='flex gap-2'><img src={playStore} alt="" />
+            <h2 className='font-semibold'>Google Play</h2></a>
+            
         </div>
-        <div className='flex gap-2'>
-            <img src={appStore} alt="" />
-            <h2 className='font-semibold'>App Store</h2>
+        <div className=''>
+            <a href="/https://www.apple.com/app-store/" className='flex gap-2'><img src={appStore} alt="" />
+            <h2 className='font-semibold'>App Store</h2></a>
+            
         </div>
         </div>       
         </div>
