@@ -1,20 +1,21 @@
 // src/component/AppDetails/AppDetails.jsx
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import downloadImg from '../../assets/icon-downloads.png'
 import star from '../../assets/icon-ratings.png'
 import reveiwImg from '../../assets/icon-review.png'
-import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from 'recharts';
+import { Bar, BarChart, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import { addStoreData } from '../../utility/addToDB';
+
+
+
 const AppDetails = () => {
 
     const {id}=useParams();
     const data=useLoaderData()
     const singleData= data.find(app=>app.id===id)
-    const {image,title,companyName,downloads,ratingAvg,reviews,ratings,description}=singleData
+    const {image,title,companyName,downloads,ratingAvg,reviews,ratings,description,size,}=singleData
     
-
-   
-
     const ratingsData=ratings.map(ratingData=> {
         const ratings={
            rat:ratingData.name ,
@@ -24,6 +25,22 @@ const AppDetails = () => {
         return ratings
         
     })
+    const [install, setInstall] = useState(false);
+    useEffect(() => {
+        const storedData = JSON.parse(localStorage.getItem("installedApps")) || [];
+        if (storedData.includes(id)) {
+            setInstall(true); 
+        }
+    }, [id])
+
+
+    const handalerInstall=(id)=>{
+        addStoreData(id)
+        setInstall(true);
+
+    }
+
+
    const sortedRatings = [...ratingsData].sort((a, b) => b.count - a.count);
 
 
@@ -54,6 +71,18 @@ const AppDetails = () => {
                                  <h1 className='text-[40px] font-extrabold'>{(reviews / 1_000_0000).toFixed(0) + 'M'}</h1>
                             </div>
                         </div>
+                    
+                    <button 
+  onClick={() => handalerInstall(id)}
+  disabled={install} 
+  className={`w-[239px] h-[52px] rounded-sm text-white text-xl font-semibold mt-2 cursor-pointer ${
+    install ? "bg-gray-400 cursor-not-allowed" : "bg-green-600"
+  }`}
+>
+  {install ? "Installed" : "Install Now"} {size}MB
+</button>
+
+
                     </div>
                 </div>
 
@@ -72,11 +101,13 @@ const AppDetails = () => {
   layout="vertical"
   barCategoryGap="0%"   
   barGap={0}          
-  barSize={30}
+  barSize={25}
   margin={{ top: 5, right: 10, left: 20, bottom: 5 }}
 >
   <XAxis type="number" />
   <YAxis dataKey="rat" type="category" />
+  <Tooltip></Tooltip>
+  <Legend></Legend>
 
   <Bar dataKey="count" fill="#FF8811" />
 </BarChart>
