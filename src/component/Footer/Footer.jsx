@@ -1,3 +1,4 @@
+// src/component/Footer/Footer.jsx
 import React from 'react';
 import logo from '../../assets/logo.png';
 import { NavLink } from 'react-router';
@@ -5,11 +6,11 @@ import { NavLink } from 'react-router';
 const Footer = () => {
     return (
         <div>
-        <footer className="footer  sm:footer-horizontal bg-neutral text-neutral-content items-center p-4 ">
+        <footer className="footer flex justify-between  sm:footer-horizontal bg-neutral text-neutral-content items-center p-4 ">
   <aside className="grid-flow-col items-center">
 
-    <div>
-     <NavLink> <div className='flex items-center '>
+    <div className='flex flex-row'>
+     <NavLink> <div className='flex  items-center '>
         <img className='w-10 h-10 ' src={logo} alt="" /> <h1 className=" font-bold text-white">
   HERO.IO
 </h1>

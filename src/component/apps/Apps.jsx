@@ -27,15 +27,19 @@ const Apps = () => {
         <div>
             <h1 className='text-[48px] text-center font-bold my-4 '>Our All Applications</h1>
             <p className='text-center text-[#627382] text-xl my-4'>Explore All Apps on the Market developed by us. We code for Millions</p>
-           <div className='flex justify-between my-6'>
-            <h1 className='text-2xl font-semibold'> ({applength}) Apps found  </h1>
-            <div className='flex items-center border border-amber-200 rounded-sm '>
+           <div className='flex px-1 justify-between my-6'>
+            <h1 className='px-2 md:text-2xl font-semibold'> ({applength}) Apps found  </h1>
+           
+            <div className='flex md:w-48 items-center border border-amber-200 rounded-sm '>
                 <img className='w-10 h-10' src={search} alt="" />
+               
                 <input onChange={(e) => {setSearchText(e.target.value).setapplength(filteredData)}} type="search" name="search" id="" placeholder='Search' className='text-xl items-center pb-1 outline-0 border-none' />
                 
             </div>
            </div>
-            <div className='grid grid-cols-4 gap-6 flex-1  '>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6 flex-1 px-2">
+
+
                 {filteredData.length > 0 ? (
           filteredData.map(data => (
 

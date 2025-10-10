@@ -72,9 +72,9 @@ const Navbar = () => {
     target="_blank"
     rel="noopener noreferrer"
   >
-    <button className="bg-gradient-to-r from-[#632ee3] to-[#9F62F2] px-4 py-1 rounded-lg flex items-center justify-center text-white font-semibold shadow-md hover:opacity-90 transition">
-      <img className="w-12 mt-3 h-12 object-contain" src={cat} alt="GitHub" />
-      <p className="ml-2 leading-none text-2xl flex items-center">Contribute</p>
+    <button className="bg-gradient-to-r from-[#632ee3] to-[#9F62F2] px-1 md:px-4 md:py-1 rounded-lg flex items-center justify-center text-white font-semibold shadow-md hover:opacity-90 transition">
+      <img className="md:w-12 mt-3 md:h-12 object-contain" src={cat} alt="GitHub" />
+      <p className="ml-2 leading-none md:text-2xl flex items-center">Contribute</p>
     </button>
   </a>
 </div>

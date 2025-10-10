@@ -20,7 +20,7 @@ const dataApp=useLoaderData()
             <h1 className='text-[48px] font-bold text-center mt-12 mb-4'>Trending Apps</h1>
             <p className='text-xl text-center mb-8 text-[#627382]'>Explore All Trending Apps on the Market developed by us</p>
 
-          <div className='grid grid-cols-4 gap-5 '>
+          <div className='grid grid-cols-1 md:grid-cols-4 gap-5 '>
               {
                 dataApp.map(data=> <SingleApp key={data.id} data={data}></SingleApp> )
             }
